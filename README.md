@@ -1,1 +1,3 @@
-# SMS-Spam-Detection-
+SMS Spam Detection using Pyspark
+
+In the era of digital communication, SMS continues to be a commonly used medium for communication, which unfortunately makes it a target for spam. This project addresses the need to classify SMS messages as spam or ham (not spam) using machine learning techniques. This project utilizes Apache Spark's MLlib with PySpark for scalable processing and Naive Bayes for classification, all integrated within a Streamlit application for real-time user interaction. The model is trained on the 'SMSSpamCollection' dataset, using techniques like tokenization, stop word removal, TF-IDF vectorization, and length feature engineering. The project not only demonstrates high accuracy but also presents an intuitive interface for end-users to interact with the model. The implementation emphasizes big data principles and real-time analytics using modern tools.
