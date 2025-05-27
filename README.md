@@ -38,6 +38,6 @@ Model Building and Training:
  
 The model chosen for this project is Naive Bayes, implemented using PySpark MLlib. It is well-suited for high-dimensional text data due to its simplicity and strong performance in bag-of-words models. 
 
-Dataset Link: https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip >> smsspamcollection.zip
+Dataset Link: https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip
 
 
